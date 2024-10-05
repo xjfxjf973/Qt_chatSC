@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/imrxshluzrn.webp</file>
+        <file>Image/qwer1.png</file>
+        <file>Image/qwer2.png</file>
+        <file>Image/setting.png</file>
+    </qresource>
+</RCC>
